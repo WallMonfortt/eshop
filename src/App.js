@@ -6,7 +6,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import Checkout from './Checckout';
+import Checkout from './Checkout';
 
 
 
